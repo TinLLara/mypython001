@@ -1,1 +1,1 @@
-print('hello,my midea_tin')
+print('hello,my java_tin')
